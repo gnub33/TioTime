@@ -1,0 +1,61 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: navy;
+}
+
+.banner {
+    background-color: teal;
+    color: violet;
+    margin-top: 50px;
+    text-align: center ;
+    padding: 50px 0px;
+}
+
+#tiny-tio {
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.tiotter-section {
+    padding: 20px 50px; 
+}
+
+#kiseki {
+    color:blueviolet;
+    font-size: 60px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('../Images/Tio_Plato_-_SD29.png');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
