@@ -1,5 +1,18 @@
+body {
+    background-color: #C8E4F2;
+}
+
+h1,h2,h3,p,span,li {
+    font-family: 'Kanit', sans-serif;
+}
+
+input,
+button{
+    background-color: #EE50FA;
+}
+
 .navbar {
-    background-color: white;
+    background-color: #36D9D3;
     position: fixed;
     top: 0;
     width: 100%;
@@ -12,12 +25,12 @@
 
 .navbar a {
     text-decoration: none;
-    color: navy;
+    color: #3E69F7;
 }
 
 .banner {
-    background-color: teal;
-    color: violet;
+    background-color: #36D9D3;
+    color: #EE50FA;
     margin-top: 50px;
     text-align: center ;
     padding: 50px 0px;
@@ -34,7 +47,7 @@
 }
 
 #kiseki {
-    color:blueviolet;
+    color:#8A47DE;
     font-size: 60px;
 }
 
@@ -57,5 +70,5 @@
 }
 
 a.blue {
-    color: blue;
+    color: rgb(19, 77, 211)
 }
